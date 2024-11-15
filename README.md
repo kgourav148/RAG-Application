@@ -6,4 +6,4 @@ The pipeline has following parts :-
 3. Document Chunking
 4. Storing chunk embeddings in vector store
 5. Indexing
-6. Retreival
+6. Retrieval
