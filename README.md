@@ -17,4 +17,5 @@ The pipeline has following parts :-
 2. Hierarchical Indexing
 3. Dynamic Chunking can be adopted and chunking overlap tunning
 4. Introduction of Re-ranking in retrieval process
-5. Query transformation - Decomposition, Stepback, etc. 
+5. Query transformation - Decomposition, Stepback, etc.
+6. Streamlit based UI to upload document and query questions
