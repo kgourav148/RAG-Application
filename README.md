@@ -9,4 +9,4 @@ The pipeline has following parts :-
 6. Retrieval
 
 
-![RAG Pipeline Diagram]([https://github.com/your-username/your-repo-name/blob/main/path-to-your-image/image-name.png](https://github.com/kgourav148/RAG-Application/blob/main/RAG%20Architecture.png))
+![RAG Pipeline Diagram](https://github.com/kgourav148/RAG-Application/blob/main/RAG%20Architecture.png)
