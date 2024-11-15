@@ -7,3 +7,6 @@ The pipeline has following parts :-
 4. Storing chunk embeddings in vector store
 5. Indexing
 6. Retrieval
+
+
+![RAG Pipeline Diagram]([https://github.com/your-username/your-repo-name/blob/main/path-to-your-image/image-name.png](https://github.com/kgourav148/RAG-Application/blob/main/RAG%20Architecture.png))
